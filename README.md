@@ -1,8 +1,7 @@
 ## 欢迎来到手工撸机器学习代码
 
-You can use the [editor on GitHub](https://github.com/XueRenJing/-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-本博客主要是记录本菜鸟手工编写python代码解决机器学习任务的日记，不喜勿喷。
+本博客主要是记录本菜鸟手工编写python代码实现机器学习算法的日记，不引用sklearn包，不喜勿喷。
 
 ### Markdown
 
