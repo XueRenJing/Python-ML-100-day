@@ -1,8 +1,8 @@
-## 欢迎来到
+## 欢迎来到手工撸机器学习代码
 
 You can use the [editor on GitHub](https://github.com/XueRenJing/-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本博客主要是记录本菜鸟手工编写python代码解决机器学习任务的日记，不喜勿喷。
 
 ### Markdown
 
